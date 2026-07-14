@@ -11,7 +11,7 @@ You are free to tour the source code, and I've tried to explain confusing concep
 
 Nib's a personal project for learning and experimenting with language design, so don't expect anything serious from it.
 
-Nib is unfortunately not 100% halal because of the usage of Rust. (/j)
+Nib is unfortunately not 100% halal because of the usage of Rust. (/j but not really)
 
 ## Example
 ```
