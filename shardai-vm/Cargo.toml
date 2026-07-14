@@ -1,7 +1,0 @@
-[package]
-name = "shardai-vm"
-version = "0.1.0"
-edition = "2024"
-
-[dependencies]
-shardai-bytecode = { path = "../shardai-bytecode" }

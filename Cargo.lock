@@ -3,37 +3,37 @@
 version = 4
 
 [[package]]
-name = "shardai-bytecode"
+name = "bytecode"
 version = "0.1.0"
 dependencies = [
- "shardai-syntax",
+ "syntax",
 ]
 
 [[package]]
-name = "shardai-cli"
+name = "cli"
 version = "0.1.0"
 dependencies = [
- "shardai-bytecode",
- "shardai-compiler",
- "shardai-syntax",
- "shardai-vm",
+ "bytecode",
+ "compiler",
+ "syntax",
+ "vm",
 ]
 
 [[package]]
-name = "shardai-compiler"
+name = "compiler"
 version = "0.1.0"
 dependencies = [
- "shardai-bytecode",
- "shardai-syntax",
+ "bytecode",
+ "syntax",
 ]
 
 [[package]]
-name = "shardai-syntax"
+name = "syntax"
 version = "0.1.0"
 
 [[package]]
-name = "shardai-vm"
+name = "vm"
 version = "0.1.0"
 dependencies = [
- "shardai-bytecode",
+ "bytecode",
 ]

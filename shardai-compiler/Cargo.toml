@@ -1,8 +1,0 @@
-[package]
-name = "shardai-compiler"
-version = "0.1.0"
-edition = "2024"
-
-[dependencies]
-shardai-syntax = { path = "../shardai-syntax" }
-shardai-bytecode = { path = "../shardai-bytecode" }

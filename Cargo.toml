@@ -1,5 +1,5 @@
 [workspace]
-members = ["shardai-bytecode","shardai-cli", "shardai-compiler", "shardai-syntax", "shardai-vm"]
+members = ["bytecode", "cli", "compiler", "syntax", "vm"]
 resolver = "3"
 
 [profile.release]

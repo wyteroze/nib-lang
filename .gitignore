@@ -1,3 +1,4 @@
 /target
 .idea
-*.sbc
+*.nbc
+.DS_Store
