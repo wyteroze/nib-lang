@@ -6,7 +6,7 @@
     <a><img src="https://img.shields.io/badge/status-toy--language-blue"/></a>
 </div>
 <br>
-**Nib is a small toy language with a lexer, parser, compiler, and bytecode VM, all written in Rust from scratch, by hand!** 
+__Nib is a small toy language with a lexer, parser, compiler, and bytecode VM, all written in Rust from scratch, by hand!__ 
 You are free to tour the source code, and I've tried to explain confusing concepts when possible.
 
 Nib's a personal project for learning and experimenting with language design, so don't expect anything serious from it.
