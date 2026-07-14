@@ -1,6 +1,6 @@
 <div align="center">
-    <img src="assets/logo-dark.png#gh-light-mode-only" alt="Nib" width="450">
-    <img src="assets/logo-light.png#gh-dark-mode-only" alt="Nib" width="450">
+    <img src="assets/logo-dark.png#gh-light-mode-only" alt="Nib" width="250">
+    <img src="assets/logo-light.png#gh-dark-mode-only" alt="Nib" width="250">
     <br/><br/>
     <a href="LICENSE"><img src="https://img.shields.io/github/license/wyteroze/nib-lang"/></a>
     <a><img src="https://img.shields.io/badge/status-toy--language-blue"/></a>
